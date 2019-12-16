@@ -30,3 +30,10 @@ Git flow/Code change decisions:
 [LinkedIn](https://www.linkedin.com/in/bohdanturkynewych)
 
 [Instagram](https://www.instagram.com/tb0hdan/)
+
+
+## Hobby stuff
+
+[QRZ.com UR5YBM](https://www.qrz.com/db/UR5YBM)
+
+[QRZCQ.com UR5YBM](https://www.qrzcq.com/call/UR5YBM)
