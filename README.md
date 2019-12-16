@@ -23,7 +23,7 @@ Git flow/Code change decisions:
 
 ### Python
 
-[Twigator - Twitter aggregator project]https://github.com/tb0hdan/twigator_project)
+[Twigator - Twitter aggregator project](https://github.com/tb0hdan/twigator_project)
 
 ## Links
 
