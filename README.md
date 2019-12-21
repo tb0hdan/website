@@ -9,6 +9,8 @@ Here are some of my projects:
 
 [URL Shortener](https://github.com/tb0hdan/urlshortener)
 
+[Reverse HTTP Proxy](https://github.com/tb0hdan/reverseproxy)
+
 [Amazon parameter store - get all environment variables](https://github.com/tb0hdan/ssm-env-all)
 
 Open Voice Assistant:
