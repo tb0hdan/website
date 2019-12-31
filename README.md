@@ -2,7 +2,7 @@
 
 
 [![Go commits](https://img.shields.io/badge/Go-542%20commits-orange.svg)](https://sourcerer.io/tb0hdan)
-[![Python commits](https://img.shields.io/badge/Python-530%20commits-orange.svg)(https://sourcerer.io/tb0hdan)
+[![Python commits](https://img.shields.io/badge/Python-530%20commits-orange.svg)](https://sourcerer.io/tb0hdan)
 
 
 Here are some of my projects:
