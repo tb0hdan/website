@@ -18,6 +18,8 @@ Here are some of my projects:
 
 [Amazon parameter store - get all environment variables](https://github.com/tb0hdan/ssm-env-all)
 
+[Gomobile skel tool - build mobile apps written in Go easier and faster](https://github.com/tb0hdan/gomobile-skel)
+
 Open Voice Assistant:
 
 [Server](https://github.com/tb0hdan/openva-server)
