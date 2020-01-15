@@ -34,6 +34,10 @@ Git flow/Code change decisions:
 
 [Twigator - Twitter aggregator project](https://github.com/tb0hdan/twigator_project)
 
+## Datasets
+
+[Internet domains for search engines, etc](https://github.com/tb0hdan/domains)
+
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/bohdanturkynewych)
