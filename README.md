@@ -36,7 +36,7 @@ Git flow/Code change decisions:
 
 ## Datasets
 
-[Internet domains for search engines, etc](https://github.com/tb0hdan/domains)
+[Internet domains for search engines, etc](http://domainsproject.org)
 
 ## Links
 
