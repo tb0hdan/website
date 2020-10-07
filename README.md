@@ -44,6 +44,8 @@ Git flow/Code change decisions:
 
 [Instagram](https://www.instagram.com/tb0hdan/)
 
+[Patreon](https://www.patreon.com/tb0hdan)
+
 
 ## Hobby stuff
 
